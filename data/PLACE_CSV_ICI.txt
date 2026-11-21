@@ -1,0 +1,1 @@
+Copier ici le fichier ORIGINAL bike_sharing.csv du TP Java. Ne pas modifier les colonnes.
